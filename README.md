@@ -1,4 +1,4 @@
-* Please see mongo pyfile to see code. I have attached screenshots below for updating, creating, deleting documents in Mongo DB
+* Please see mongo pyfile from MongoFolder to see code. I have attached screenshots below for updating, creating, deleting documents in Mongo DB
 
 ### All file
 ![all.png](all.png)
